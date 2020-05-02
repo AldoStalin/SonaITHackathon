@@ -3,7 +3,6 @@
 # MINI-PROJECT HACKATHON 2020
 Welcome to Hackathon!  
 
-
 ## Rules
 Kindly go through the [Rules](rules.md) of the Hackathon beforehand.
 
@@ -26,9 +25,9 @@ One has to mark appropriate label in order to a submission valid for the Hackath
 
 ### Project List:
 All the project Titles are listed below,
-S.No	Project Topic	Section	Supervisor	Team Member(s)		
-1	Android Based Tourist Guide	A	Mr. S. Rajkumar	Dhanasekar	Ajith	Jawahar
-2	Sentiment Analysis in Social media data using AFINN and WordNet	A	Dr. K. Thangaraj	P B Haripriya		
+|S.No|Project Topic                                                   |Section|Team Member(s)		                                 |
+|1	 |Android Based Tourist Guide	                                    |:A	   :|Dhanasekar	Ajith	Jawahar                          |
+|2	 |Sentiment Analysis in Social media data using AFINN and WordNet	|:A	   :|P B Haripriya	                                   |	
 3	Opinion Mining	A	Mr. S. Rajkumar	Aishwarya A	Heena Samreen M	Deepika A
 4	Extracting Affiliated Universities from Authors Addresses	A	Mr M Muralii	DeviPriya S	Iswarya Devi S	Indhumathi S
 5	Optical Character Recognition	A		J Jeyadheepan	S Hariharan	N S Eraiyanbu & Ajay Sakthivel
