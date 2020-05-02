@@ -1,4 +1,4 @@
-# Sona College of Technology,
+# Sona College of Technology
 # Department of Information Technology
 # MINI-PROJECT HACKATHON 2020
 # Welcome to Hackathon!
