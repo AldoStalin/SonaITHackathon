@@ -1,13 +1,12 @@
 ---
 name: Issue_template
 about: To submit projects
-title: Mini-project Hackathon
+title: Enter Title
 labels: ''
 assignees: ''
 
 ---
 
-@@ -1,15 +1,16 @@
 **Before you start, please follow this format for your issue title**:  
 TEAM NAME - PROJECT NAME
 ## ℹ️ Project information
